@@ -69,7 +69,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CNYSCZCD
 
 [Document2]
-DocumentPath=External_Footprints\AltiumDesigner\SDRAM.SchDoc
+DocumentPath=SDRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LBXYBSEU
+DocumentUniqueId=XOELXDXS
 
 [Configuration1]
 Name=Sources
