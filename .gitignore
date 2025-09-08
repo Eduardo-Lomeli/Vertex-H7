@@ -1,0 +1,18 @@
+# Altium Designer .gitignore
+
+# History and backup files
+*.PrjPcbStructure
+*.~*
+*.old
+*.bak
+History/
+Project Outputs for */
+
+# Generated files
+*.csv
+*.txt
+*.html
+*.xml
+
+# Lock files
+*.lck
